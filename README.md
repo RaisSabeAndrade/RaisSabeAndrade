@@ -1,4 +1,5 @@
 
+
 ## Olá! Eu sou Raíssa Andrade ⭐
 
 #### Sou formada em Gestão de Tecnologia da Informação, faço Engenharia de Software na UnB, atualmente estagio no Ministério dos Transportes na área de Dados e Analytics, no meu dia a dia auxilo com consultas no banco de dados, desenvolvo painéis no Power BI e correção do Data Factory Azure. Sou apaixonada por tecnologia há anos e estou me aventurando nessa linda área. 🔥
@@ -16,5 +17,5 @@
 <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-<img align="center" alt="Figma" src="(https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
